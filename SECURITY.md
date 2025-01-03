@@ -20,6 +20,6 @@ We will try to confirm or decline your report ASAP by email. For accepted
 vulnerability reports we will create an [advisory][advisory]
 and, if you wish, invite you to the discussion.
 
-[release]: https://github.com/peczenyj/xpool/releases/latest
+[release]: https://github.com/peczenyj/pointer/releases/latest
 [security]: mailto://tiago.peczenyj+security@gmail.com
-[advisory]: https://github.com/peczenyj/xpool/security/advisories
+[advisory]: https://github.com/peczenyj/pointer/security/advisories

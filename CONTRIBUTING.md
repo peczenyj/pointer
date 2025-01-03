@@ -14,4 +14,4 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Code of Conduct
 
-Check here our [Code of Conduct](https://github.com/peczenyj/xpool/blob/main/CODE_OF_CONDUCT.md)
+Check here our [Code of Conduct](https://github.com/peczenyj/pointer/blob/main/CODE_OF_CONDUCT.md)
