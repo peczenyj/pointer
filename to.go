@@ -1,5 +1,5 @@
-//go:build go1.26
-// +build go1.26
+//go:build !go1.26
+// +build !go1.26
 
 // The idea behind this package is to help handle with pointers in very common tasks.
 //
