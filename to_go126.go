@@ -1,5 +1,5 @@
-//go:build !go1.26
-// +build !go1.26
+//go:build go1.26
+// +build go1.26
 
 // The idea behind this package is to help handle with pointers in very common tasks.
 //
@@ -16,7 +16,5 @@ package pointer
 //
 // Outputs: "return a pointer to int with value 64"
 func To[V any](object V) *V {
-	p := new(V)
-	*p = object
-	return p
+	return new(object)
 }
